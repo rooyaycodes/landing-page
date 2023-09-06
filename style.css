@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.container1 {
+    background-color: #1F2937;
+    color: #F9FAF8; 
+    
+
+}
+
+.site-header {
+    padding: 20px 25px 30px 80px;
+    margin: 0;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.site-header .wrapper1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    margin: 0;
+    padding-right: 80px;
+    gap: 20px;
+     
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
